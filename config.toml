@@ -1,0 +1,5 @@
+baseURL = "https://darkmagik.top"
+languageCode = "en-us"
+title = "DarkMagik"
+theme = "stack"
+relativeURLs = true
